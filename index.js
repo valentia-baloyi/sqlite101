@@ -46,8 +46,8 @@ const result = await getGreetings()
 
 // create a function that delete a specific greeting 
 // create a function that add a new greetind
-function addGreeting(language, greeting){
-}
+//function addGreeting(language, greeting){
+//}
 
 // create a function that update a given greeting
 
