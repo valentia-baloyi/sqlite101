@@ -40,11 +40,10 @@ async function getaGeetings() {
 console.log('===============')
 
 
-(async ()=> {
-await addGreeing('venda ', 'Ndaa');
+await addGreeting('venda ', 'Ndaa');
 
 const result = await getGreetings()
-})()
+console.log(result)
 
 // create a function that delete a specific greeting 
 // create a function that add a new greetind
